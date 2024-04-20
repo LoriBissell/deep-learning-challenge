@@ -49,3 +49,9 @@ Use any or all of the following methods to optimize your model:
   - Add more hidden layers.
   - Use different activation functions for the hidden layers.
   - Add or reduce the number of epochs to the training regimen.
+ 
+# My Optimized Model
+![image](https://github.com/LoriBissell/deep-learning-challenge/assets/147443762/4d0c8a76-36f2-4ff8-be23-38573845a6aa)
+![image](https://github.com/LoriBissell/deep-learning-challenge/assets/147443762/8e402dc2-db41-4fd5-8df8-e60d0cd7ef50)
+
+
