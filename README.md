@@ -42,7 +42,7 @@ Using your knowledge of TensorFlow, optimize your model to achieve a target pred
 Use any or all of the following methods to optimize your model:
 
 * Adjust the input data to ensure that no variables or outliers are causing confusion in the model, such as:
-- Dropping more or fewer columns.
+*- Dropping more or fewer columns.
 - Creating more bins for rare occurrences in columns.
 - Increasing or decreasing the number of values for each bin.
 - Add more neurons to a hidden layer.
